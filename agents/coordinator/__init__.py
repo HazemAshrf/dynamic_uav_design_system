@@ -1,0 +1,1 @@
+"""Coordinator agent - manages and coordinates workflow execution."""

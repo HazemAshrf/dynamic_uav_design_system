@@ -1,0 +1,5 @@
+{
+  "dependencies": [],
+  "communicates_with": ["mission_planner", "aerodynamics", "propulsion", "structures", "manufacturing", "thermal_management", "avionics", "payload"],
+  "description": "Coordinator has no dependencies and can communicate with all available agents in the system"
+}
